@@ -1,0 +1,8 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.container-cards img {
+  width: 100px;
+}
